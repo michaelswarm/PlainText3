@@ -8,6 +8,7 @@ PlainText is basic plain text editor with natural language processing.
 - Sections Inspector: Text divided into sections. 
 - Headings Inspector: Display heading of each section.  
 - Sentences Inspector: Sentences divided into word tokens with string, grammar and lemma properties. 
+- Status Bar: Counts of lines, words and sentences, and list of heading words. 
 
 # Tools
 
